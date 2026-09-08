@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/name.svg" height="40" alt="VANJA SRETENOVIC"/>
 <br/>
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/h-vectorix.svg" width="260" height="36" alt="VECTORIX"/>
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/h-role.svg" width="260" height="36" alt="SOFTWARE ENGINEER"/>
+VECTORIX &nbsp;&nbsp;&nbsp;&nbsp;SOFTWARE ENGINEER
 <br/>
 <b>BLOCKCHAIN / WEB3 &nbsp;·&nbsp; AUTOMATED TRADING &nbsp;·&nbsp; POLYMARKET</b>
 <br/>
-NOVI SAD, SERBIA
+NOVI SAD, &nbsp; &nbsp; &nbsp;SERBIA
 </div>
+
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-about.svg" width="260" height="36" alt="ABOUT"/>
 
@@ -25,7 +25,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-prediction.svg" width="260" height="36" alt="PREDICTION MARKETS"/></p>
+      <p align="center"><b>PREDICTION MARKETS</b></p>
       <ul>
         <li><b>Polymarket trading bot</b> — live books, implied vs modeled probability</li>
         <li>Condition engine and automated execution</li>
@@ -33,7 +33,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-trading.svg" width="260" height="36" alt="TRADING AUTOMATION"/></p>
+      <p align="center"><b>TRADING AUTOMATION</b></p>
       <ul>
         <li>Market-data pipelines and WebSockets</li>
         <li>Strategy engines (paper and live)</li>
@@ -43,7 +43,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-blockchain.svg" width="260" height="36" alt="BLOCKCHAIN WEB3"/></p>
+      <p align="center"><b>BLOCKCHAIN WEB3</b></p>
       <ul>
         <li>Rust and TypeScript on Solana / EVM</li>
         <li>Wallets, transactions, on-chain data</li>
@@ -51,7 +51,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-ai.svg" width="260" height="36" alt="AI IN PRODUCT"/></p>
+      <p align="center"><b>AI IN PRODUCT</b></p>
       <ul>
         <li>OpenAI APIs inside real workflows</li>
         <li>LLM tooling around trading and ops</li>
@@ -60,6 +60,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     </td>
   </tr>
 </table>
+
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-stack.svg" width="260" height="36" alt="STACK"/>
 
@@ -150,23 +151,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
 </table>
 
-<table width="880" cellpadding="10" cellspacing="0">
-  <tr>
-    <td colspan="2"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/spacer.svg" width="880" height="1" alt=""/></td>
-  </tr>
-  <tr>
-    <th align="left" width="50%">LANGUAGE</th>
-    <th align="left">LEVEL</th>
-  </tr>
-  <tr>
-    <td>Serbian</td>
-    <td>Native</td>
-  </tr>
-  <tr>
-    <td>English</td>
-    <td>Professional working proficiency</td>
-  </tr>
-</table>
+
 
 <div align="center">
 
@@ -178,7 +163,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/featured.svg" width="400" height="36" alt="PORTFOLIO FEATURED WORK"/>
 </a>
 
-<p>I'd be happy to hear from you.</p>
+<p>Contact</p>
 
 <a href="mailto:vanjasretenovic4@gmail.com">
   <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/email.svg" width="168" height="36" alt="EMAIL"/>
