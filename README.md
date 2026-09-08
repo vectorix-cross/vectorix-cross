@@ -102,7 +102,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     <th align="left">WHAT IT IS</th>
   </tr>
   <tr>
-    <td valign="top"><b>Polymarket trading bot</b></td>
+    <td valign="top"><a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python"><b>Polymarket trading bot</b></a></td>
     <td>Flagship system. Discovers markets, reads CLOB books, compares probability to price, and executes programmed strategies with risk limits. Built for prediction-market microstructure — not a generic exchange bot.</td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/projects.svg" width="400" height="36" alt="PORTFOLIO VIEW PROJECTS"/>
 </a>
 &nbsp;
-<a href="https://github.com/vectorix-cross/MYTestProject">
+<a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python">
   <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/featured.svg" width="400" height="36" alt="PORTFOLIO FEATURED WORK"/>
 </a>
 
