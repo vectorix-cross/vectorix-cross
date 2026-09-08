@@ -3,5 +3,5 @@
   <g fill="#FFFFFF" transform="translate(18,7)">
     <path d="M11 0C4.92 0 0 5.04 0 11.27c0 4.98 3.15 9.2 7.51 10.69.55.1.75-.24.75-.54v-1.91c-3.05.68-3.7-1.5-3.7-1.5-.5-1.3-1.22-1.65-1.22-1.65-1-.7.07-.68.07-.68 1.1.08 1.68 1.16 1.68 1.16.98 1.72 2.58 1.22 3.2.93.1-.73.38-1.22.7-1.5-2.44-.28-5-1.25-5-5.57 0-1.23.43-2.24 1.14-3.03-.12-.29-.5-1.45.1-3.02 0 0 .93-.3 3.05 1.16a10.3 10.3 0 0 1 5.55 0c2.12-1.46 3.05-1.16 3.05-1.16.6 1.57.22 2.73.1 3.02.71.79 1.14 1.8 1.14 3.03 0 4.33-2.57 5.28-5.02 5.56.4.35.75 1.03.75 2.08v3.08c0 .3.2.65.75.54A11.28 11.28 0 0 0 22 11.27C22 5.04 17.08 0 11 0z"/>
   </g>
-  <text x="214" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" letter-spacing="1.2">PORTFOLIO  "  FEATURED WORK</text>
+  <text x="214" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" letter-spacing="1.2">PORTFOLIO  •  FEATURED WORK</text>
 </svg>

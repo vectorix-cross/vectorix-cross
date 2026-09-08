@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="168" height="36" viewBox="0 0 168 36">
   <rect width="168" height="36" rx="4" fill="#E7E9EA"/>
-  <text x="84" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#000000" letter-spacing="1.6">TWITTER</text>
+  <g transform="translate(14,10)" fill="none" stroke="#111111" stroke-width="2.4" stroke-linecap="round">
+    <path d="M1 1 L16 16"/>
+    <path d="M16 1 L1 16"/>
+  </g>
+  <text x="108" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#111111" letter-spacing="1.4">TWITTER</text>
 </svg>
