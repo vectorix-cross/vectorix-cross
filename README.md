@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/name.svg" height="40" alt="VANJA SRETENOVIC"/>
+<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/name.svg" height="40" alt="Vanja Sretenovic Vectorix Polymarket trading bot"/>
 <br/>
 VECTORIX &nbsp;&nbsp;&nbsp;&nbsp;SOFTWARE ENGINEER
 <br/>
-<b>BLOCKCHAIN / WEB3 &nbsp;·&nbsp; AUTOMATED TRADING &nbsp;·&nbsp; POLYMARKET</b>
+<b>POLYMARKET TRADING BOT &nbsp;·&nbsp; CRYPTO TRADING &nbsp;·&nbsp; TOKEN LAUNCH</b>
 <br/>
 NOVI SAD, &nbsp; &nbsp; &nbsp;SERBIA
 </div>
+
+**Vanja Sretenovic** builds a Polymarket trading bot, betting and market desks, Solana token-launch / memecoin pool tooling, and crypto trading automation. Search: Polymarket, trading bot, prediction market, token, liquidity pool.
 
 
 <h3><font color="#E6B422">ABOUT</font></h3>
@@ -35,8 +37,8 @@ Four years at **ZESIUM Mobile** (2020–2024) on backends, APIs, and realtime sy
     <td width="50%" valign="top">
       <p align="center"><b>TRADING AUTOMATION</b></p>
       <ul>
-        <li>Market-data pipelines and WebSockets</li>
-        <li>Strategy engines (paper and live)</li>
+        <li>Trading bots for Polymarket and crypto books</li>
+        <li>Strategy engines (paper and live), Robinhood-style tickets</li>
         <li>Expected value, sizing, and risk</li>
       </ul>
     </td>
@@ -45,9 +47,9 @@ Four years at **ZESIUM Mobile** (2020–2024) on backends, APIs, and realtime sy
     <td width="50%" valign="top">
       <p align="center"><b>BLOCKCHAIN WEB3</b></p>
       <ul>
-        <li>Rust and TypeScript on Solana / EVM</li>
-        <li>Wallets, transactions, on-chain data</li>
-        <li>Web3 APIs and dapp integration</li>
+        <li>Token launch, memecoin, liquidity pools</li>
+        <li>Wallets, swaps, on-chain data</li>
+        <li>Casino-style / prediction games on-chain</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -77,10 +79,10 @@ Four years at **ZESIUM Mobile** (2020–2024) on backends, APIs, and realtime sy
   </tr>
   <tr>
     <td><b>MARKETS</b></td>
-    <td align="center">Polymarket</td>
-    <td align="center">Prediction markets</td>
-    <td align="center">Solana</td>
-    <td align="center">Web3</td>
+    <td align="center">Polymarket / betting</td>
+    <td align="center">Token launch / pools</td>
+    <td align="center">Solana memecoin</td>
+    <td align="center">Crypto markets</td>
   </tr>
   <tr>
     <td><b>SYSTEMS</b></td>
@@ -103,7 +105,19 @@ Four years at **ZESIUM Mobile** (2020–2024) on backends, APIs, and realtime sy
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python"><b>Polymarket trading bot</b></a></td>
-    <td>Flagship system. Discovers markets, reads CLOB books, compares probability to price, and executes programmed strategies with risk limits. Built for prediction-market microstructure — not a generic exchange bot.</td>
+    <td>Flagship <b>Polymarket trading bot</b>: market discovery, live CLOB, probability vs quote, rule-based entries, hard risk caps. Prediction-market microstructure — not a generic exchange bot.</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/vectorix-cross/polymarket-desk"><b>Polymarket desk</b></a></td>
+    <td>Operator terminal: 24h movers, live tape, watchlists, consensus screens, intent-only tickets. Built for trading the market, not browsing it.</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/vectorix-cross/PolyMarketDashboard"><b>Polymarket dashboard</b></a></td>
+    <td>Live Gamma analytics: volume, liquidity, categories, watchlist, and price alerts.</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/vectorix-cross/alexbet-lite"><b>AlexBET Lite</b></a></td>
+    <td>Sports betting tracker: line moves, +EV scans, bankroll notes. Same desk mindset as the Polymarket work.</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/vectorix-cross/My-web3-projects"><b>Web3 projects</b></a></td>
@@ -151,11 +165,17 @@ Four years at **ZESIUM Mobile** (2020–2024) on backends, APIs, and realtime sy
   </tr>
   <tr>
     <td>2024 – NOW</td>
-    <td>Independent · Vectorix · Polymarket trading bot, Web3, automated trading</td>
+    <td>Independent · Vectorix · Polymarket trading bot, betting desks, token launch, crypto trading bots</td>
   </tr>
 </table>
 
 
+
+<h3><font color="#E6B422">FIND THIS WORK</font></h3>
+
+GitHub and Google: **Polymarket trading bot**, Polymarket trading, prediction market, betting, trading bot, crypto trading bot, token launch, memecoin, liquidity pool, Solana token, casino-style market games, Robinhood-style tickets.
+
+Open repos: [Polymarket trading bot](https://github.com/vectorix-cross/My-Polymarket-trading-bot-python) · [Polymarket desk](https://github.com/vectorix-cross/polymarket-desk) · [Polymarket dashboard](https://github.com/vectorix-cross/PolyMarketDashboard) · [AlexBET Lite](https://github.com/vectorix-cross/alexbet-lite) · [Web3 catalog](https://github.com/vectorix-cross/My-web3-projects)
 
 <div align="center">
 
