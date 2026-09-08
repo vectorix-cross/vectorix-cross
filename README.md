@@ -162,6 +162,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 <a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python">
   <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/featured.svg" width="400" height="36" alt="PORTFOLIO FEATURED WORK"/>
 </a>
+&nbsp;
+<a href="https://github.com/vectorix-cross/My-web3-projects">
+  <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/projects.svg" width="400" height="36" alt="WEB3 PROJECTS"/>
+</a>
 
 <p>Contact</p>
 
