@@ -1,144 +1,96 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Vanja Sretenovic — Vectorix" width="100%"/>
+# Vanja Sretenovic
+### Vectorix · Software Engineer
 
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=E8C872&center=true&vCenter=true&width=820&lines=Vanja+Sretenovic+%7C+Vectorix;Software+Engineer;Blockchain+%2F+Web3+%E2%80%A2+Trading;Polymarket+%26+Prediction+Markets;Probability+in%2C+automation+out" alt="Typing headline"/>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Location-Novi_Sad%2C_Serbia-0d1117?style=for-the-badge&labelColor=c9a227&color=0d1117"/>
-  <img src="https://img.shields.io/badge/Open_to-Contract_%26_Consulting-0d1117?style=for-the-badge&labelColor=3ee0c8&color=0d1117"/>
-  <img src="https://komarev.com/ghpvc/?username=vectorix-cross&style=for-the-badge&color=c9a227&label=PROFILE+VIEWS"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=E8C872&center=true&vCenter=true&width=760&lines=Blockchain+%2F+Web3;Automated+trading;Prediction+markets;Polymarket+systems" alt="focus"/>
 
 <br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Novi_Sad%2C_Serbia-c9a227?style=for-the-badge&logo=googlemaps&logoColor=0d1117" alt="location"/>
+<img src="https://img.shields.io/badge/Open_to_work-3ee0c8?style=for-the-badge&logo=handshake&logoColor=0d1117" alt="open to work"/>
 
-  <a href="mailto:vanjasretenovic4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/vectorix_cross"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://discord.com/users/775389898794336316"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://t.me/vectoris_corss"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://github.com/vectorix-cross"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<br/><br/>
+
+<a href="mailto:vanjasretenovic4@gmail.com"><img src="https://img.shields.io/badge/Email-vanjasretenovic4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/vectorix_cross"><img src="https://img.shields.io/badge/X-vectorix__cross-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://discord.com/users/775389898794336316"><img src="https://img.shields.io/badge/Discord-vectoris__cross-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://t.me/vectoris_corss"><img src="https://img.shields.io/badge/Telegram-vectoris__corss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/vectorix-cross"><img src="https://img.shields.io/badge/GitHub-vectorix--cross-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
-</div>
+---
 
-## About me
+## About
 
-I’m **Vanja Sretenovic** (**Vectorix**) — a software engineer building automated systems where **blockchain, markets, and probability** meet.
+I’m **Vanja Sretenovic** — I build automated systems at the intersection of **blockchain, markets, and probability**.
 
-I treat trading and prediction markets as an engineering loop:
+Trading loop I actually run:
 
-`data → probability vs price → rules → execution → risk → review`
+**data → probability vs price → rules → execution → risk → review**
 
-Current focus: **Polymarket** trading systems, Web3 automation, and bots that watch the book and act on predefined conditions — not on impulse.
+Current work is **Polymarket** and Web3 automation: watch the book, score conditions, execute programmed strategies. Edge is measured. Size is capped. The bot stops when risk rules fire.
 
-> Edge is measured. Size is capped. The system stops when risk rules fire.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
-</div>
+---
 
 ## What I ship
 
-<table>
-<tr>
-<td width="50%">
+| Prediction markets | Trading automation |
+| :-- | :-- |
+| Polymarket monitoring, implied vs modeled probability, kill-switches | Market-data pipelines, strategy engines, paper and live paths |
 
-### Prediction markets
-Polymarket monitoring, implied vs modeled probability, rule-based entries, kill-switches.
+| Blockchain / Web3 | AI in product |
+| :-- | :-- |
+| Rust + TypeScript, wallets, txs, on-chain data, Web3 APIs | OpenAI APIs, LLM workflows, agents inside real systems |
 
-</td>
-<td width="50%">
+---
 
-### Trading automation
-Market-data pipelines, strategy engines, paper/live paths, disciplined execution.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### Blockchain / Web3
-Rust + TypeScript, wallets, transactions, on-chain data, Web3 APIs, dapp flows.
-
-</td>
-<td>
-
-### AI in product
-OpenAI APIs, LLM workflows, agents as tools inside real systems — not demos for demos.
-
-</td>
-</tr>
-</table>
-
-## Tech arsenal
+## Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Polymarket-1652F0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/Polymarket-1652F0?style=flat-square" alt="Polymarket"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-## GitHub pulse
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vectorix-cross&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8c872&icon_color=3ee0c8&text_color=c9d1d9"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectorix-cross&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8c872&text_color=c9d1d9"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vectorix-cross&theme=dark&hide_border=true&background=0d1117&ring=e8c872&fire=3ee0c8&currStreakLabel=e8c872" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vectorix-cross&theme=onestar&no-frame=true&column=7&margin-w=8" alt="trophies"/>
-</p>
+---
 
 ## Selected work
 
-- **Polymarket trading systems** — live books, probability checks, automated strategy execution, hard risk caps.
-- **[CrossYield](https://github.com/vectorix-cross/MYTestProject)** — Ethereum deposit → Wormhole → Solana vaults, automated harvest.
-- **Trading & betting engines** — expected value, quoted price, payoff, and risk in one decision loop.
-- **Production software** — four years shipping APIs, realtime backends, and integrations at ZESIUM Mobile.
+- **Polymarket trading systems** — live books, probability checks, automated execution, hard risk caps
+- **[CrossYield](https://github.com/vectorix-cross/MYTestProject)** — Ethereum → Wormhole → Solana vaults, automated harvest
+- **Trading & betting engines** — expected value, quoted price, payoff, and risk in one loop
+- **Production software** — four years of APIs, realtime backends, and integrations at ZESIUM Mobile
+
+---
 
 ## Timeline
 
 ```text
-2018–2022   FTN, University of Novi Sad
-            BSc (Hons) Software Engineering & IT  ·  242 ECTS
+2018–2022    University of Novi Sad, FTN
+             BSc (Hons) Software Engineering & IT · 242 ECTS
 
-2020–2024   Software Engineer  ·  ZESIUM Mobile
-            Backend, APIs, realtime systems, integrations, production
+2020–2024    Software Engineer · ZESIUM Mobile
+             Backend, APIs, realtime systems, production
 
-2024–now    Independent  ·  Vectorix
-            Blockchain / Web3, Polymarket, automated trading, AI workflows
+2024–now     Independent · Vectorix
+             Blockchain / Web3 · Polymarket · automated trading
 ```
 
-## Languages
+**Languages:** Serbian (native) · English (professional)
 
-🇷🇸 Serbian — native  🇬🇧 English — professional working proficiency
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
-  <br/>
-  <sub>Novi Sad · Vanja Sretenovic · vectorix-cross · X @vectorix_cross</sub>
+
+**X** [@vectorix_cross](https://x.com/vectorix_cross) · **mail** vanjasretenovic4@gmail.com
+
+<sub>Novi Sad · Serbia</sub>
+
 </div>
