@@ -11,11 +11,11 @@ NOVI SAD, &nbsp; &nbsp; &nbsp;SERBIA
 
 <h3><font color="#E6B422">ABOUT</font></h3>
 
-I build a **Polymarket trading bot** and the surrounding stack: market discovery, live CLOB books, probability versus quoted price, rule-based entries, and automatic execution with hard risk caps.
+Main line of work is a **Polymarket trading bot** and the stack around it — market discovery, live CLOB books, model probability against the quote, rule-based entries, and execution that cuts out when the risk caps hit.
 
-I do not sit on the book and click. The bot watches conditions, sizes the trade, and stops when the risk rules fire.
+No sitting on the book clicking fills. The bot watches the tape, picks a size, and stands down when the rules fire.
 
-Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020–2024) shipping backends, APIs, and realtime systems. Independent work since 2024 is Web3, Rust, and prediction-market automation.
+Four years at **ZESIUM Mobile** (2020–2024) on backends, APIs, and realtime systems. Since 2024 the work has been independent: Web3, Rust, and prediction-market automation.
 
 <h3><font color="#E6B422">FOCUS</font></h3>
 
