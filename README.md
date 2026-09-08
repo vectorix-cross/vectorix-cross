@@ -1,84 +1,213 @@
 <div align="center">
   <h1>VANJA SRETENOVIC</h1>
-  <h3>SOFTWARE ENGINEER</h3>
-  <p>BLOCKCHAIN / WEB3  ·  TRADING  ·  PREDICTION MARKETS</p>
-  <p>NOVI SAD, SERBIA  ·  VECTORIX</p>
+  <p>
+    <img src="https://img.shields.io/badge/VECTORIX-0d1117?style=for-the-badge&labelColor=c9a227&color=0d1117" alt="VECTORIX"/>
+    <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-0d1117?style=for-the-badge&labelColor=3ee0c8&color=0d1117" alt="SOFTWARE ENGINEER"/>
+  </p>
+  <p><b>BLOCKCHAIN / WEB3 &nbsp;·&nbsp; AUTOMATED TRADING &nbsp;·&nbsp; POLYMARKET</b></p>
+  <p>NOVI SAD, SERBIA</p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>ABOUT</h2>
+  <img src="https://img.shields.io/badge/ABOUT-c9a227?style=for-the-badge&color=c9a227" alt="ABOUT"/>
 </div>
 
-I am Vanja Sretenovic. I design automated systems where blockchain, markets, and probability meet.
+<br/>
 
-I treat trading as an engineering loop:
+I build a **Polymarket trading bot** and the surrounding stack: market discovery, live CLOB books, probability versus quoted price, rule-based entries, and automatic execution with hard risk caps.
 
-**DATA → PROBABILITY VS PRICE → RULES → EXECUTION → RISK → REVIEW**
+I do not sit on the book and click. The bot watches conditions, sizes the trade, and stops when the risk rules fire.
 
-Current focus: Polymarket systems and Web3 automation. Edge is measured. Size is capped. The system stops when risk rules fire.
+Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020–2024) shipping backends, APIs, and realtime systems. Independent work since 2024 is Web3, Rust, and prediction-market automation.
 
 ---
 
 <div align="center">
-  <h2>FOCUS</h2>
+  <img src="https://img.shields.io/badge/FOCUS-c9a227?style=for-the-badge&color=c9a227" alt="FOCUS"/>
 </div>
 
-| PREDICTION MARKETS | TRADING AUTOMATION |
-| :---: | :---: |
-| Polymarket monitoring | Market-data pipelines |
-| Probability vs implied price | Strategy engines |
-| Kill-switches | Paper and live execution |
+<br/>
 
-| BLOCKCHAIN / WEB3 | AI IN PRODUCT |
-| :---: | :---: |
-| Rust and TypeScript | OpenAI APIs |
-| Wallets and on-chain data | LLM workflows |
-| Web3 APIs | Agents inside real systems |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/PREDICTION_MARKETS-3ee0c8?style=for-the-badge&color=3ee0c8" alt="PREDICTION MARKETS"/>
+      </p>
+      <ul>
+        <li><b>Polymarket trading bot</b> — live books, implied vs modeled probability</li>
+        <li>Condition engine and automated execution</li>
+        <li>Kill-switches and position limits</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/TRADING_AUTOMATION-3ee0c8?style=for-the-badge&color=3ee0c8" alt="TRADING AUTOMATION"/>
+      </p>
+      <ul>
+        <li>Market-data pipelines and WebSockets</li>
+        <li>Strategy engines (paper and live)</li>
+        <li>Expected value, sizing, and risk</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/BLOCKCHAIN_/_WEB3-3ee0c8?style=for-the-badge&color=3ee0c8" alt="BLOCKCHAIN WEB3"/>
+      </p>
+      <ul>
+        <li>Rust and TypeScript on Solana / EVM</li>
+        <li>Wallets, transactions, on-chain data</li>
+        <li>Web3 APIs and dapp integration</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI_IN_PRODUCT-3ee0c8?style=for-the-badge&color=3ee0c8" alt="AI IN PRODUCT"/>
+      </p>
+      <ul>
+        <li>OpenAI APIs inside real workflows</li>
+        <li>LLM tooling around trading and ops</li>
+        <li>Agents as software, not demos</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <h2>STACK</h2>
+  <img src="https://img.shields.io/badge/STACK-c9a227?style=for-the-badge&color=c9a227" alt="STACK"/>
 </div>
 
-| LANGUAGES | MARKETS | SYSTEMS |
-| :---: | :---: | :---: |
-| Rust | Polymarket | WebSockets |
-| Python | Solana | Docker |
-| TypeScript | Web3 | GitHub Actions |
-| JavaScript | Prediction markets | Linux |
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/LANGUAGES-3ee0c8?style=for-the-badge&color=3ee0c8" alt="LANGUAGES"/>
+      <p>Rust<br/>Python<br/>TypeScript<br/>JavaScript</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/MARKETS-3ee0c8?style=for-the-badge&color=3ee0c8" alt="MARKETS"/>
+      <p>Polymarket<br/>Prediction markets<br/>Solana<br/>Web3</p>
+    </td>
+    <td width="34%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/SYSTEMS-3ee0c8?style=for-the-badge&color=3ee0c8" alt="SYSTEMS"/>
+      <p>WebSockets<br/>Docker<br/>GitHub Actions<br/>Linux</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <h2>SELECTED WORK</h2>
+  <img src="https://img.shields.io/badge/SELECTED_WORK-c9a227?style=for-the-badge&color=c9a227" alt="SELECTED WORK"/>
 </div>
 
-| PROJECT | DESCRIPTION |
-| :--- | :--- |
-| Polymarket trading systems | Live books, probability checks, automated execution, risk caps |
-| [CrossYield](https://github.com/vectorix-cross/MYTestProject) | Ethereum → Wormhole → Solana vaults, automated harvest |
-| Trading and betting engines | Expected value, quoted price, payoff, and risk in one loop |
-| ZESIUM Mobile | Four years of APIs, realtime backends, and production software |
+<br/>
+
+<table width="100%">
+  <tr>
+    <th align="left" width="32%">PROJECT</th>
+    <th align="left">WHAT IT IS</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Polymarket trading bot</b>
+    </td>
+    <td>
+      Flagship system. Discovers markets, reads CLOB books, compares probability to price, and executes programmed strategies with risk limits. Built for prediction-market microstructure — not a generic exchange bot.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/vectorix-cross/MYTestProject"><b>CrossYield</b></a>
+    </td>
+    <td>
+      Cross-chain RWA yield path: Ethereum deposit, Wormhole bridge, Solana vault routing, automated harvest.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/vectorix-cross/Solana-arbitrage-bot"><b>Solana arbitrage bot</b></a>
+    </td>
+    <td>
+      On-chain arbitrage across Solana DEX pools: size the route, estimate fill, execute when the book is still there.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/vectorix-cross/Solana-Trading-Bots"><b>Solana trading bots</b></a>
+    </td>
+    <td>
+      Execution stack for Solana trading: monitoring, routing, and automated order flow.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/vectorix-cross/Coinbase-x402"><b>x402 micropayments</b></a>
+    </td>
+    <td>
+      Coinbase x402 payment flow on Solana — HTTP 402 style micropayments wired into a real product path.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/vectorix-cross/Marketplace_Backend"><b>NFT marketplace backend</b></a>
+    </td>
+    <td>
+      Production-style marketplace API: listings, launchpad, collections, and on-chain settlement hooks.
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <h2>TIMELINE</h2>
+  <img src="https://img.shields.io/badge/TIMELINE-c9a227?style=for-the-badge&color=c9a227" alt="TIMELINE"/>
 </div>
 
-| YEARS | ROLE |
-| :--- | :--- |
-| 2018 – 2022 | University of Novi Sad, FTN · BSc (Hons) Software Engineering & IT |
-| 2020 – 2024 | Software Engineer · ZESIUM Mobile |
-| 2024 – NOW | Independent · Vectorix · Blockchain, Polymarket, automated trading |
+<br/>
 
-| LANGUAGE | LEVEL |
-| :---: | :---: |
-| Serbian | Native |
-| English | Professional working proficiency |
+<table width="100%">
+  <tr>
+    <th align="left" width="22%">YEARS</th>
+    <th align="left">ROLE</th>
+  </tr>
+  <tr>
+    <td>2018 – 2022</td>
+    <td>University of Novi Sad, FTN · BSc (Hons) Software Engineering &amp; IT · 242 ECTS</td>
+  </tr>
+  <tr>
+    <td>2020 – 2024</td>
+    <td>Software Engineer · ZESIUM Mobile · backend, APIs, realtime systems</td>
+  </tr>
+  <tr>
+    <td>2024 – NOW</td>
+    <td>Independent · Vectorix · Polymarket trading bot, Web3, automated trading</td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <th align="left" width="50%">LANGUAGE</th>
+    <th align="left">LEVEL</th>
+  </tr>
+  <tr>
+    <td>Serbian</td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>Professional working proficiency</td>
+  </tr>
+</table>
 
 ---
 
