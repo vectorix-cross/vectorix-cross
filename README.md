@@ -183,8 +183,6 @@ Open repos: [Polymarket trading bot](https://github.com/vectorix-cross/My-Polyma
 &nbsp;
 [![PORTFOLIO VIEW SLIDESHOWS](https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/slideshows.svg)](https://vectorix-cross.github.io/portfolio/)
 
-**Slideshows:** [vectorix-cross.github.io/portfolio](https://vectorix-cross.github.io/portfolio/)
-
 <p>Contact</p>
 
 <a href="mailto:vanjasretenovic4@gmail.com">
