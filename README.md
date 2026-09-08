@@ -9,7 +9,7 @@ NOVI SAD, &nbsp; &nbsp; &nbsp;SERBIA
 </div>
 
 
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-about.svg" width="260" height="36" alt="ABOUT"/>
+<h3><font color="#E6B422">ABOUT</font></h3>
 
 I build a **Polymarket trading bot** and the surrounding stack: market discovery, live CLOB books, probability versus quoted price, rule-based entries, and automatic execution with hard risk caps.
 
@@ -17,7 +17,7 @@ I do not sit on the book and click. The bot watches conditions, sizes the trade,
 
 Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020–2024) shipping backends, APIs, and realtime systems. Independent work since 2024 is Web3, Rust, and prediction-market automation.
 
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-focus.svg" width="260" height="36" alt="FOCUS"/>
+<h3><font color="#E6B422">FOCUS</font></h3>
 
 <table width="880" cellpadding="10" cellspacing="0">
   <tr>
@@ -62,7 +62,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 </table>
 
 
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-stack.svg" width="260" height="36" alt="STACK"/>
+<h3><font color="#E6B422">STACK</font></h3>
 
 <table width="880" cellpadding="10" cellspacing="0">
   <tr>
@@ -91,7 +91,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-work.svg" width="260" height="36" alt="SELECTED WORK"/>
+<h3><font color="#E6B422">SELECTED WORK</font></h3>
 
 <table width="880" cellpadding="10" cellspacing="0">
   <tr>
@@ -104,6 +104,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   <tr>
     <td valign="top"><a href="https://github.com/vectorix-cross/My-Polymarket-trading-bot-python"><b>Polymarket trading bot</b></a></td>
     <td>Flagship system. Discovers markets, reads CLOB books, compares probability to price, and executes programmed strategies with risk limits. Built for prediction-market microstructure — not a generic exchange bot.</td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/vectorix-cross/My-web3-projects"><b>Web3 projects</b></a></td>
+    <td>Catalog of Vectorix Web3 work: Solana trading bots, Pump.fun launchpads, token contracts, NFT tooling, and prediction-market automation.</td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/vectorix-cross/MYTestProject"><b>CrossYield</b></a></td>
@@ -127,7 +131,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-timeline.svg" width="260" height="36" alt="TIMELINE"/>
+<h3><font color="#E6B422">TIMELINE</font></h3>
 
 <table width="880" cellpadding="10" cellspacing="0">
   <tr>
@@ -157,6 +161,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <a href="https://github.com/vectorix-cross?tab=repositories">
   <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/projects.svg" width="400" height="36" alt="PORTFOLIO VIEW PROJECTS"/>
+</a>
+&nbsp;
+<a href="https://github.com/vectorix-cross/My-web3-projects">
+  <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/slideshows.svg" width="430" height="36" alt="PORTFOLIO VIEW SLIDESHOWS"/>
 </a>
 
 <p>Contact</p>
