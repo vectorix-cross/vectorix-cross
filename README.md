@@ -1,20 +1,13 @@
 <div align="center">
-  <h1>VANJA SRETENOVIC</h1>
+  <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/name.svg" width="820" height="52" alt="VANJA SRETENOVIC"/>
   <p>
     <img src="https://img.shields.io/badge/VECTORIX-0d1117?style=for-the-badge&labelColor=c9a227&color=0d1117" alt="VECTORIX"/>
     <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-0d1117?style=for-the-badge&labelColor=3ee0c8&color=0d1117" alt="SOFTWARE ENGINEER"/>
   </p>
-  <p><b>BLOCKCHAIN / WEB3 &nbsp;·&nbsp; AUTOMATED TRADING &nbsp;·&nbsp; POLYMARKET</b></p>
-  <p>NOVI SAD, SERBIA</p>
+  <p><b>BLOCKCHAIN / WEB3 &nbsp;·&nbsp; AUTOMATED TRADING &nbsp;·&nbsp; POLYMARKET</b><br/>NOVI SAD, SERBIA</p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/ABOUT-c9a227?style=for-the-badge&color=c9a227" alt="ABOUT"/>
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/ABOUT-c9a227?style=for-the-badge&color=c9a227" alt="ABOUT"/>
 
 I build a **Polymarket trading bot** and the surrounding stack: market discovery, live CLOB books, probability versus quoted price, rule-based entries, and automatic execution with hard risk caps.
 
@@ -22,15 +15,10 @@ I do not sit on the book and click. The bot watches conditions, sizes the trade,
 
 Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020–2024) shipping backends, APIs, and realtime systems. Independent work since 2024 is Web3, Rust, and prediction-market automation.
 
----
+<img src="https://img.shields.io/badge/FOCUS-c9a227?style=for-the-badge&color=c9a227" alt="FOCUS"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-c9a227?style=for-the-badge&color=c9a227" alt="FOCUS"/>
-</div>
-
-<br/>
-
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <p align="center">
@@ -76,39 +64,35 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/STACK-c9a227?style=for-the-badge&color=c9a227" alt="STACK"/>
 </div>
 
-<br/>
+<img src="https://img.shields.io/badge/STACK-c9a227?style=for-the-badge&color=c9a227" alt="STACK"/>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/LANGUAGES-3ee0c8?style=for-the-badge&color=3ee0c8" alt="LANGUAGES"/>
-      <p>Rust<br/>Python<br/>TypeScript<br/>JavaScript</p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/MARKETS-3ee0c8?style=for-the-badge&color=3ee0c8" alt="MARKETS"/>
-      <p>Polymarket<br/>Prediction markets<br/>Solana<br/>Web3</p>
-    </td>
-    <td width="34%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/SYSTEMS-3ee0c8?style=for-the-badge&color=3ee0c8" alt="SYSTEMS"/>
-      <p>WebSockets<br/>Docker<br/>GitHub Actions<br/>Linux</p>
-    </td>
+    <td><img src="https://img.shields.io/badge/LANGUAGES-3ee0c8?style=for-the-badge&color=3ee0c8" alt="LANGUAGES"/></td>
+    <td align="center">Rust</td>
+    <td align="center">Python</td>
+    <td align="center">TypeScript</td>
+    <td align="center">JavaScript</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MARKETS-3ee0c8?style=for-the-badge&color=3ee0c8" alt="MARKETS"/></td>
+    <td align="center">Polymarket</td>
+    <td align="center">Prediction markets</td>
+    <td align="center">Solana</td>
+    <td align="center">Web3</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/SYSTEMS-3ee0c8?style=for-the-badge&color=3ee0c8" alt="SYSTEMS"/></td>
+    <td align="center">WebSockets</td>
+    <td align="center">Docker</td>
+    <td align="center">GitHub Actions</td>
+    <td align="center">Linux</td>
   </tr>
 </table>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/SELECTED_WORK-c9a227?style=for-the-badge&color=c9a227" alt="SELECTED WORK"/>
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/SELECTED_WORK-c9a227?style=for-the-badge&color=c9a227" alt="SELECTED WORK"/>
 
 <table width="100%">
   <tr>
@@ -116,62 +100,32 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     <th align="left">WHAT IT IS</th>
   </tr>
   <tr>
-    <td valign="top">
-      <b>Polymarket trading bot</b>
-    </td>
-    <td>
-      Flagship system. Discovers markets, reads CLOB books, compares probability to price, and executes programmed strategies with risk limits. Built for prediction-market microstructure — not a generic exchange bot.
-    </td>
+    <td valign="top"><b>Polymarket trading bot</b></td>
+    <td>Flagship system. Discovers markets, reads CLOB books, compares probability to price, and executes programmed strategies with risk limits. Built for prediction-market microstructure — not a generic exchange bot.</td>
   </tr>
   <tr>
-    <td valign="top">
-      <a href="https://github.com/vectorix-cross/MYTestProject"><b>CrossYield</b></a>
-    </td>
-    <td>
-      Cross-chain RWA yield path: Ethereum deposit, Wormhole bridge, Solana vault routing, automated harvest.
-    </td>
+    <td valign="top"><a href="https://github.com/vectorix-cross/MYTestProject"><b>CrossYield</b></a></td>
+    <td>Cross-chain RWA yield path: Ethereum deposit, Wormhole bridge, Solana vault routing, automated harvest.</td>
   </tr>
   <tr>
-    <td valign="top">
-      <a href="https://github.com/vectorix-cross/Solana-arbitrage-bot"><b>Solana arbitrage bot</b></a>
-    </td>
-    <td>
-      On-chain arbitrage across Solana DEX pools: size the route, estimate fill, execute when the book is still there.
-    </td>
+    <td valign="top"><a href="https://github.com/vectorix-cross/Solana-arbitrage-bot"><b>Solana arbitrage bot</b></a></td>
+    <td>On-chain arbitrage across Solana DEX pools: size the route, estimate fill, execute when the book is still there.</td>
   </tr>
   <tr>
-    <td valign="top">
-      <a href="https://github.com/vectorix-cross/Solana-Trading-Bots"><b>Solana trading bots</b></a>
-    </td>
-    <td>
-      Execution stack for Solana trading: monitoring, routing, and automated order flow.
-    </td>
+    <td valign="top"><a href="https://github.com/vectorix-cross/Solana-Trading-Bots"><b>Solana trading bots</b></a></td>
+    <td>Execution stack for Solana trading: monitoring, routing, and automated order flow.</td>
   </tr>
   <tr>
-    <td valign="top">
-      <a href="https://github.com/vectorix-cross/Coinbase-x402"><b>x402 micropayments</b></a>
-    </td>
-    <td>
-      Coinbase x402 payment flow on Solana — HTTP 402 style micropayments wired into a real product path.
-    </td>
+    <td valign="top"><a href="https://github.com/vectorix-cross/Coinbase-x402"><b>x402 micropayments</b></a></td>
+    <td>Coinbase x402 payment flow on Solana — HTTP 402 style micropayments wired into a real product path.</td>
   </tr>
   <tr>
-    <td valign="top">
-      <a href="https://github.com/vectorix-cross/Marketplace_Backend"><b>NFT marketplace backend</b></a>
-    </td>
-    <td>
-      Production-style marketplace API: listings, launchpad, collections, and on-chain settlement hooks.
-    </td>
+    <td valign="top"><a href="https://github.com/vectorix-cross/Marketplace_Backend"><b>NFT marketplace backend</b></a></td>
+    <td>Production-style marketplace API: listings, launchpad, collections, and on-chain settlement hooks.</td>
   </tr>
 </table>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TIMELINE-c9a227?style=for-the-badge&color=c9a227" alt="TIMELINE"/>
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/TIMELINE-c9a227?style=for-the-badge&color=c9a227" alt="TIMELINE"/>
 
 <table width="100%">
   <tr>
@@ -192,8 +146,6 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
 </table>
 
-<br/>
-
 <table width="100%">
   <tr>
     <th align="left" width="50%">LANGUAGE</th>
@@ -208,8 +160,6 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     <td>Professional working proficiency</td>
   </tr>
 </table>
-
----
 
 <div align="center">
 
