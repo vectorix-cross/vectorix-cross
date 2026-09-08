@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/name.svg" width="820" height="52" alt="VANJA SRETENOVIC"/>
-  <p>
-    <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/h-vectorix.svg" width="260" height="36" alt="VECTORIX"/>
-    <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/h-role.svg" width="260" height="36" alt="SOFTWARE ENGINEER"/>
-  </p>
-  <p><b>BLOCKCHAIN / WEB3 &nbsp;·&nbsp; AUTOMATED TRADING &nbsp;·&nbsp; POLYMARKET</b><br/>NOVI SAD, SERBIA</p>
+<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/name.svg" height="40" alt="VANJA SRETENOVIC"/>
+<br/>
+<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/h-vectorix.svg" width="260" height="36" alt="VECTORIX"/>
+<img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/h-role.svg" width="260" height="36" alt="SOFTWARE ENGINEER"/>
+<br/>
+<b>BLOCKCHAIN / WEB3 &nbsp;·&nbsp; AUTOMATED TRADING &nbsp;·&nbsp; POLYMARKET</b>
+<br/>
+NOVI SAD, SERBIA
 </div>
+
+<table width="100%">
+<tr><td>
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-about.svg" width="260" height="36" alt="ABOUT"/>
 
@@ -17,7 +22,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-focus.svg" width="260" height="36" alt="FOCUS"/>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-prediction.svg" width="260" height="36" alt="PREDICTION MARKETS"/></p>
@@ -58,23 +63,23 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-stack.svg" width="260" height="36" alt="STACK"/>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td width="20%"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-languages.svg" width="260" height="36" alt="LANGUAGES"/></td>
+    <td width="20%"><b>LANGUAGES</b></td>
     <td width="20%" align="center">Rust</td>
     <td width="20%" align="center">Python</td>
     <td width="20%" align="center">TypeScript</td>
     <td width="20%" align="center">JavaScript</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-markets.svg" width="260" height="36" alt="MARKETS"/></td>
+    <td><b>MARKETS</b></td>
     <td align="center">Polymarket</td>
     <td align="center">Prediction markets</td>
     <td align="center">Solana</td>
     <td align="center">Web3</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-systems.svg" width="260" height="36" alt="SYSTEMS"/></td>
+    <td><b>SYSTEMS</b></td>
     <td align="center">WebSockets</td>
     <td align="center">Docker</td>
     <td align="center">GitHub Actions</td>
@@ -84,7 +89,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-work.svg" width="260" height="36" alt="SELECTED WORK"/>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <th align="left" width="32%">PROJECT</th>
     <th align="left">WHAT IT IS</th>
@@ -117,7 +122,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-timeline.svg" width="260" height="36" alt="TIMELINE"/>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <th align="left" width="22%">YEARS</th>
     <th align="left">ROLE</th>
@@ -136,7 +141,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
 </table>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <th align="left" width="50%">LANGUAGE</th>
     <th align="left">LEVEL</th>
@@ -149,6 +154,9 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     <td>English</td>
     <td>Professional working proficiency</td>
   </tr>
+</table>
+
+</td></tr>
 </table>
 
 <div align="center">
