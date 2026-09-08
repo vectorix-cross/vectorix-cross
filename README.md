@@ -9,9 +9,6 @@
 NOVI SAD, SERBIA
 </div>
 
-<table width="100%">
-<tr><td>
-
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-about.svg" width="260" height="36" alt="ABOUT"/>
 
 I build a **Polymarket trading bot** and the surrounding stack: market discovery, live CLOB books, probability versus quoted price, rule-based entries, and automatic execution with hard risk caps.
@@ -22,7 +19,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-focus.svg" width="260" height="36" alt="FOCUS"/>
 
-<table width="100%">
+<table width="880" cellpadding="10" cellspacing="0">
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/spacer.svg" width="880" height="1" alt=""/></td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/s-prediction.svg" width="260" height="36" alt="PREDICTION MARKETS"/></p>
@@ -63,7 +63,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-stack.svg" width="260" height="36" alt="STACK"/>
 
-<table width="100%">
+<table width="880" cellpadding="10" cellspacing="0">
+  <tr>
+    <td colspan="5"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/spacer.svg" width="880" height="1" alt=""/></td>
+  </tr>
   <tr>
     <td width="20%"><b>LANGUAGES</b></td>
     <td width="20%" align="center">Rust</td>
@@ -89,7 +92,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-work.svg" width="260" height="36" alt="SELECTED WORK"/>
 
-<table width="100%">
+<table width="880" cellpadding="10" cellspacing="0">
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/spacer.svg" width="880" height="1" alt=""/></td>
+  </tr>
   <tr>
     <th align="left" width="32%">PROJECT</th>
     <th align="left">WHAT IT IS</th>
@@ -122,7 +128,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
 
 <img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/t-timeline.svg" width="260" height="36" alt="TIMELINE"/>
 
-<table width="100%">
+<table width="880" cellpadding="10" cellspacing="0">
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/spacer.svg" width="880" height="1" alt=""/></td>
+  </tr>
   <tr>
     <th align="left" width="22%">YEARS</th>
     <th align="left">ROLE</th>
@@ -141,7 +150,10 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
   </tr>
 </table>
 
-<table width="100%">
+<table width="880" cellpadding="10" cellspacing="0">
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/vectorix-cross/vectorix-cross/main/badges/spacer.svg" width="880" height="1" alt=""/></td>
+  </tr>
   <tr>
     <th align="left" width="50%">LANGUAGE</th>
     <th align="left">LEVEL</th>
@@ -154,9 +166,6 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     <td>English</td>
     <td>Professional working proficiency</td>
   </tr>
-</table>
-
-</td></tr>
 </table>
 
 <div align="center">
