@@ -110,7 +110,7 @@ Before that I spent four years as a software engineer at **ZESIUM Mobile** (2020
     <td>Catalog of Vectorix Web3 work: Solana trading bots, Pump.fun launchpads, token contracts, NFT tooling, and prediction-market automation.</td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/vectorix-cross/MYTestProject"><b>CrossYield</b></a></td>
+    <td valign="top"><a href="https://github.com/vectorix-cross/CrossYield"><b>CrossYield</b></a></td>
     <td>Cross-chain RWA yield path: Ethereum deposit, Wormhole bridge, Solana vault routing, automated harvest.</td>
   </tr>
   <tr>
