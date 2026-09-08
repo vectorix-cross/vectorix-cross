@@ -1,76 +1,144 @@
-# Vanja Sretenovic
+<div align="center">
 
-**Software Engineer** · Blockchain / Web3 · Trading · Prediction Markets  
-Novi Sad, Serbia · Vectorix (`vectorix-cross`)
+  <img src="./assets/banner.svg" alt="Vanja Sretenovic — Vectorix" width="100%"/>
 
-I build automated systems at the intersection of **markets, probability, and software** — monitoring data, evaluating conditions, and executing with explicit risk limits.
+  <br/>
 
-[Email](mailto:vanjasretenovic4@gmail.com) · [Discord](https://discord.com/users/775389898794336316) · [Telegram](https://t.me/vectoris_corss) · [GitHub](https://github.com/vectorix-cross)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=E8C872&center=true&vCenter=true&width=820&lines=Vanja+Sretenovic+%7C+Vectorix;Software+Engineer;Blockchain+%2F+Web3+%E2%80%A2+Trading;Polymarket+%26+Prediction+Markets;Probability+in%2C+automation+out" alt="Typing headline"/>
 
----
+  <br/>
 
-## About
+  <img src="https://img.shields.io/badge/Location-Novi_Sad%2C_Serbia-0d1117?style=for-the-badge&labelColor=c9a227&color=0d1117"/>
+  <img src="https://img.shields.io/badge/Open_to-Contract_%26_Consulting-0d1117?style=for-the-badge&labelColor=3ee0c8&color=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=vectorix-cross&style=for-the-badge&color=c9a227&label=PROFILE+VIEWS"/>
 
-I am a software engineer from Novi Sad with a background in production backend systems and a current focus on **Blockchain/Web3**, **automated trading**, and **prediction markets**.
+</div>
 
-My work centers on turning a thesis about the market into a measurable pipeline: ingest data, estimate probability versus price, define entry and exit rules, automate execution, and review results. Trading and betting, in this framing, are engineering problems — probability, statistics, and risk — not intuition.
+<br/>
 
-A large part of current work is **Polymarket**: systems that watch books and market state, score predefined conditions, and run programmed strategies without manual click-trading.
+<div align="center">
 
-**Open to contract and consulting** in blockchain, trading systems, and prediction-market automation.
+  <a href="mailto:vanjasretenovic4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://x.com/vectorix_cross"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://discord.com/users/775389898794336316"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://t.me/vectoris_corss"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://github.com/vectorix-cross"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-## Focus
+</div>
 
-| Area | What I actually ship |
-| --- | --- |
-| **Prediction markets** | Polymarket monitoring, probability vs implied price, rule-based execution, hard risk caps |
-| **Trading automation** | Bots, market-data pipelines, strategy engines, kill-switches, paper and live paths |
-| **Blockchain / Web3** | Rust and TypeScript integrations, wallets, transactions, on-chain data, Web3 APIs |
-| **AI in product** | OpenAI APIs, LLM-backed workflows, automation around existing systems |
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+</div>
 
-## Stack
+## About me
 
-**Languages** — Rust · Python · TypeScript · JavaScript  
+I’m **Vanja Sretenovic** (**Vectorix**) — a software engineer building automated systems where **blockchain, markets, and probability** meet.
 
-**Markets** — Polymarket · prediction markets · automated execution · expected value · risk  
+I treat trading and prediction markets as an engineering loop:
 
-**Systems** — WebSockets · event-driven services · APIs · Docker · GitHub Actions · Linux  
+`data → probability vs price → rules → execution → risk → review`
 
-**Web3** — wallets · on-chain data · smart-contract fundamentals · dapp integration  
+Current focus: **Polymarket** trading systems, Web3 automation, and bots that watch the book and act on predefined conditions — not on impulse.
 
-## Experience
+> Edge is measured. Size is capped. The system stops when risk rules fire.
 
-**Software Engineer — independent** · 2024 – present · Novi Sad  
-Blockchain/Web3, Rust, automated trading, betting systems, and Polymarket bots. Designing probability-based strategies and the software that runs them.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
+</div>
 
-**Software Engineer — [ZESIUM Mobile](https://zesium.com)** · Jul 2020 – May 2024 · Novi Sad  
-Backend engineering, APIs, integrations, real-time systems, databases, automation, performance, and production maintenance. Worked with designers, QA, and other engineers on shipped product.
+## What I ship
 
-## Education
+<table>
+<tr>
+<td width="50%">
 
-**University of Novi Sad — Faculty of Technical Sciences**  
-Bachelor with Honours in Software · Software Engineering and Information Technologies  
-Oct 2018 – Sep 2022 · Novi Sad, Serbia · 242 ECTS
+### Prediction markets
+Polymarket monitoring, implied vs modeled probability, rule-based entries, kill-switches.
 
-Programming, algorithms, software engineering, databases, networks, architecture, verification, and computer security.
+</td>
+<td width="50%">
+
+### Trading automation
+Market-data pipelines, strategy engines, paper/live paths, disciplined execution.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Blockchain / Web3
+Rust + TypeScript, wallets, transactions, on-chain data, Web3 APIs, dapp flows.
+
+</td>
+<td>
+
+### AI in product
+OpenAI APIs, LLM workflows, agents as tools inside real systems — not demos for demos.
+
+</td>
+</tr>
+</table>
+
+## Tech arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Polymarket-1652F0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+## GitHub pulse
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vectorix-cross&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8c872&icon_color=3ee0c8&text_color=c9d1d9"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectorix-cross&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8c872&text_color=c9d1d9"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vectorix-cross&theme=dark&hide_border=true&background=0d1117&ring=e8c872&fire=3ee0c8&currStreakLabel=e8c872" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vectorix-cross&theme=onestar&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+</p>
 
 ## Selected work
 
-- **Polymarket trading systems** — Automated bot for prediction markets: live market data, probability and condition checks, strategy execution, and risk controls so decisions are not made by hand.
-- **[CrossYield](https://github.com/vectorix-cross/MYTestProject)** — Cross-chain path for tokenized RWAs: Ethereum deposit, Wormhole bridge, Solana vault routing, automated harvest.
-- **Trading & betting research** — Expected-value and rule-based approaches: probability, quoted price, payoff, and risk in one decision loop.
-- **Production software** — APIs, databases, backend services, and automation from four years at ZESIUM.
+- **Polymarket trading systems** — live books, probability checks, automated strategy execution, hard risk caps.
+- **[CrossYield](https://github.com/vectorix-cross/MYTestProject)** — Ethereum deposit → Wormhole → Solana vaults, automated harvest.
+- **Trading & betting engines** — expected value, quoted price, payoff, and risk in one decision loop.
+- **Production software** — four years shipping APIs, realtime backends, and integrations at ZESIUM Mobile.
 
-## How I work
+## Timeline
 
-- Edge is measured. Size is capped. The system stops when risk rules fire. I do not claim “always profitable.”
-- An idea is not done until it is data → model → conditions → test → automation → review.
-- I care about the gap between **probability and market price**, and about software that can act on that gap without drama.
+```text
+2018–2022   FTN, University of Novi Sad
+            BSc (Hons) Software Engineering & IT  ·  242 ECTS
+
+2020–2024   Software Engineer  ·  ZESIUM Mobile
+            Backend, APIs, realtime systems, integrations, production
+
+2024–now    Independent  ·  Vectorix
+            Blockchain / Web3, Polymarket, automated trading, AI workflows
+```
 
 ## Languages
 
-Serbian (native) · English (professional working proficiency)
+🇷🇸 Serbian — native  🇬🇧 English — professional working proficiency
 
----
-
-`Novi Sad  ·  Vanja Sretenovic  ·  vectorix-cross  ·  blockchain / trading / Polymarket`
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
+  <br/>
+  <sub>Novi Sad · Vanja Sretenovic · vectorix-cross · X @vectorix_cross</sub>
+</div>
