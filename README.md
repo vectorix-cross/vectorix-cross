@@ -8,6 +8,11 @@ VECTORIX &nbsp;&nbsp;&nbsp;&nbsp;SOFTWARE ENGINEER
 NOVI SAD, &nbsp; &nbsp; &nbsp;SERBIA
 </div>
 
+
+<p align="center">
+  <a href="https://portfolio.vanjasretenovic4.workers.dev/"><b>Live portfolio</b></a>
+</p>
+
 **Vanja Sretenovic** builds a Polymarket trading bot, betting and market desks, Solana token-launch / memecoin pool tooling, and crypto trading automation. Search: Polymarket, trading bot, prediction market, token, liquidity pool.
 
 
